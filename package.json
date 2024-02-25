@@ -1,0 +1,19 @@
+{
+  "name": "release",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elliot9/release.git"
+  },
+  "author": "Elliot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elliot9/release/issues"
+  },
+  "homepage": "https://github.com/Elliot9/release#readme"
+}
